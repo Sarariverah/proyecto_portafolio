@@ -1,0 +1,44 @@
+nav {
+    background-color: #ffeee6;
+}
+
+.fa-brands{
+    font-size: 18px;
+}
+
+.acerca-de-mí{
+    background-color: #ffb491;
+    color: white;
+}
+
+.acerca-de-mí h3 {
+    color: #d77f56;
+}
+
+.acerca-de-mí i{
+    color: #ffeee6;
+}
+
+footer{
+    background-color: #d77f56;
+}
+
+footer{
+    background-color: #ffeee6;
+    color:#d77f56;
+    margin: 0px;
+}
+
+footer p{
+    text-align: center;
+    margin: 0px;
+    padding: 20px;
+}
+
+.galeria-trabajos{
+    color: #d77f56;
+}
+
+.color-parrafo h3{
+    color:rgb(79, 79, 79); 
+}
